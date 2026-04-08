@@ -11,9 +11,19 @@ This analysis tracks the user journey from landing on a product page to completi
 ## 📊 Visualizations
 ### 1. User Conversion Funnel
 
+The following chart illustrates the user journey. The monochromatic scale highlights the progression from initial item selection to the final purchase, identifying the **Add to Cart** stage as the primary friction point.
+
+![User Conversion Funnel](visuals/conversion_funnel.png)
+
 *Insight: Once a user initiates checkout, the conversion to purchase is highly stable.*
 
 ### 2. Cohort Retention Heatmap
+
+This heatmap utilizes a "Traffic Light" system (Red-Yellow-Green) to visualize retention health. 
+* **Green:** High engagement (early stages).
+* **Red:** Critical churn zones, specifically visible around the **Day 28** mark.
+
+![Retention Heatmap](visuals/retention_heatmap.png)
 
 *Insight: Strategic re-engagement campaigns are needed before the Day 28 mark to prevent churn.*
 
